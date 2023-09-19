@@ -1,0 +1,2 @@
+from strategies.double_top_strategy import double_top_sell_signal
+from strategies.double_bottom_strategy import double_bottom_buy_signal

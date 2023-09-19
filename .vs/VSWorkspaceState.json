@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\core"
+    "\\core",
+    "\\indicators",
+    "\\strategies"
   ],
+  "SelectedNode": "\\core\\execution_handler.py",
   "PreviewInSolutionExplorer": false
 }
